@@ -1,21 +1,21 @@
 {
   "format": 1,
   "project": "rpg",
-  "buildId": "e6dead29a1035d83",
-  "sourceSha256": "e6dead29a1035d832af32e33208a19b1cc032dc9465fabb6d3d7ef72293c594d",
-  "sourceBytes": 35239,
+  "buildId": "664d01a8baa0c0f3",
+  "sourceSha256": "664d01a8baa0c0f3a3e75d5688b21d82452b3836cc2a04bf3d1ac36ccce550ed",
+  "sourceBytes": 36443,
   "bootstrapBytes": 4771,
   "liveBootstrap": {
     "file": "bootstrap.js",
-    "bytes": 5124,
-    "sha256": "2e499cee8645da47b444d542565bc6f18ed7c4f9e6aea0bdc0805eab131f8107"
+    "bytes": 5129,
+    "sha256": "9525755c020374262b2e0b20548be46df33b929e3aed084ed6e59d598a3bb21f"
   },
   "chunkCount": 1,
   "chunks": [
     {
-      "file": "chunks/e6dead29a1035d83/chunk-0.js",
-      "bytes": 36262,
-      "sha256": "ce9e308d436fe06f4907ded603bfbaef6610526b77311b6c9871813035ef3021"
+      "file": "chunks/664d01a8baa0c0f3/chunk-0.js",
+      "bytes": 37506,
+      "sha256": "db5eb2afa0898b41d5c6f62c180057c5dc6ba9559256fa3a77cae1d139af1017"
     }
   ]
 }
