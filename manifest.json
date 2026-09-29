@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "project": "rpg",
+  "buildId": "e6dead29a1035d83",
+  "sourceSha256": "e6dead29a1035d832af32e33208a19b1cc032dc9465fabb6d3d7ef72293c594d",
+  "sourceBytes": 35239,
+  "bootstrapBytes": 4771,
+  "liveBootstrap": {
+    "file": "bootstrap.js",
+    "bytes": 5124,
+    "sha256": "2e499cee8645da47b444d542565bc6f18ed7c4f9e6aea0bdc0805eab131f8107"
+  },
+  "chunkCount": 1,
+  "chunks": [
+    {
+      "file": "chunks/e6dead29a1035d83/chunk-0.js",
+      "bytes": 36262,
+      "sha256": "ce9e308d436fe06f4907ded603bfbaef6610526b77311b6c9871813035ef3021"
+    }
+  ]
+}
