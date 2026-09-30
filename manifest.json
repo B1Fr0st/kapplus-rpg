@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "project": "rpg",
+  "buildId": "482c2760d814007a",
+  "sourceSha256": "482c2760d814007a16f008edb8687f28fe0ab80a4552123349398390e53a9266",
+  "sourceBytes": 148457732,
+  "bootstrapBytes": 4771,
+  "liveBootstrap": {
+    "file": "bootstrap.js",
+    "bytes": 6974,
+    "sha256": "c302652bcdb62609e8ac7a8311fc010273ec85c11a98d08436da8076b5a74056"
+  },
+  "chunkCount": 19,
+  "chunks": [
+    {
+      "file": "chunks/482c2760d814007a/chunk-0.js",
+      "bytes": 7814530,
+      "sha256": "7c1a93e6d1806a8a832c79e9e1ad7309d431ec9294d73f826e076f6f55af8814",
+      "revision": "0.0.1790803005"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-1.js",
+      "bytes": 7813749,
+      "sha256": "6d4bb45f214b826e2b9e6c53359b35b10bf3618c5eed4adfea44dac353428247",
+      "revision": "0.0.1790803005"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-2.js",
+      "bytes": 7813759,
+      "sha256": "a6eac78f78965e39091bfc235b4b381820db498145765965ee46f722d729c4ee",
+      "revision": "0.0.1790803005"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-3.js",
+      "bytes": 7813749,
+      "sha256": "aedf30643c9a59714599774327517d09f7c137b6d9061a91e558769845de6a52",
+      "revision": "0.0.1790803005"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-4.js",
+      "bytes": 7813755,
+      "sha256": "248e245b4cc31d1dbd87e17f5975627254e3e48e5c040a1eeac59173a280b218",
+      "revision": "0.0.1790803005"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-5.js",
+      "bytes": 7813749,
+      "sha256": "48032a658e3bf9ca206075ea5dcb09110d6d1d75f68a43d389fd77e401d4f83b",
+      "revision": "0.0.1790803006"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-6.js",
+      "bytes": 7813820,
+      "sha256": "bfe61b924c2648594e44c241398ea974d29f41a97376a01ed7e9cffe4bc6c30e",
+      "revision": "0.0.1790803006"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-7.js",
+      "bytes": 7813847,
+      "sha256": "0ac4c28cba583eccc4c994149d40050be837bb1ec3967576df67b6b8befb6c6e",
+      "revision": "0.0.1790803006"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-8.js",
+      "bytes": 7813763,
+      "sha256": "2949decf7fd485790517e29f70c00661ee7f4231cd0dc0d7d5147af7d6810714",
+      "revision": "0.0.1790803006"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-9.js",
+      "bytes": 7813777,
+      "sha256": "ea85eae20b13eeff9d36641e1021d90d8fe958a295bf16ad1e07c66cae22475f",
+      "revision": "0.0.1790803006"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-10.js",
+      "bytes": 7813764,
+      "sha256": "16241411f18833c73b83aa17a3dd70aa6b379638e02ba1983c612b58391b6cec",
+      "revision": "0.0.1790803007"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-11.js",
+      "bytes": 7813764,
+      "sha256": "82cafefd28ddf6329ca57dd46436267e29586bad1687335289cbb973c05835e2",
+      "revision": "0.0.1790803007"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-12.js",
+      "bytes": 7813763,
+      "sha256": "5b1bd93be58ee0ae38955f40ae325ad7540c56b87f61824779e41ffd974daf01",
+      "revision": "0.0.1790803007"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-13.js",
+      "bytes": 7813764,
+      "sha256": "e227e5b8263efa4147c2e742f495702b518c0c074d3830810b6c6f861297fcc9",
+      "revision": "0.0.1790803007"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-14.js",
+      "bytes": 7813778,
+      "sha256": "6f599a5cf0ec19b7f4b2ae4017b93dbf328d10cc2c440703ff7e52ecae0ec753",
+      "revision": "0.0.1790803007"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-15.js",
+      "bytes": 7813778,
+      "sha256": "f4405b3fc4424420f5ecd74d3c56718628a493524fa4fc1701087fa20de0ade9",
+      "revision": "0.0.1790803008"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-16.js",
+      "bytes": 7813792,
+      "sha256": "0e68d541c062e27deb38be6c07fd477c01b69781faf0509b67e4ef35df39eec9",
+      "revision": "0.0.1790803008"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-17.js",
+      "bytes": 7813750,
+      "sha256": "6b4cc27edd3645729e76ed001064463bfe9f15ea0418c0d86afef5e59da1cd4f",
+      "revision": "0.0.1790803008"
+    },
+    {
+      "file": "chunks/482c2760d814007a/chunk-18.js",
+      "bytes": 7813937,
+      "sha256": "e94129b12e7641dbfd82fa5dc08b5ad16a71ea0f5099b420ee553ce1f9d97d3a",
+      "revision": "0.0.1790803008"
+    }
+  ]
+}
